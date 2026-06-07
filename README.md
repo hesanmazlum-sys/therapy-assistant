@@ -9,8 +9,7 @@
 
 ## 📸 پیش‌نمایش | Preview
 
-<div align="center">
-  <img src="https://i.imgur.com/YOUR_IMAGE_ID.jpg" alt="Therapy Assistant Screenshot" width="800"/>
+
   <p><em>مدیریت پرونده بیماران با ساختار درختی، گزارش‌گیری جامع و یکپارچگی با هوش مصنوعی</em></p>
 </div>
 
