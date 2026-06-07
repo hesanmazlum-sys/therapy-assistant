@@ -55,7 +55,7 @@
 ## 🚀 دموی آنلاین | Live Demo
 
 **نسخه آنلاین را اینجا تست کنید:**  
-👉 [https://YOUR_DEMO_URL.com](https://YOUR_DEMO_URL.com)
+👉 https://hesanmazlum-sys.github.io/therapy-assistant/
 
 > 💡 **نکته:** برای تست دستیار هوش مصنوعی، یک کلید OpenRouter از [openrouter.ai](https://openrouter.ai) دریافت کنید (اختیاری).
 
